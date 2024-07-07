@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Eshrak</h1>
 <h3 align="center">I'm enthusiast of computer science and engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhldG9vMDZ1NWRuNnZhaDlsMXY5MmJpdmViY3J1b3JweTc1ZDFqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eshrak_g46198" target="blank"><img src="https://img.shields.io/twitter/follow/eshrak_g46198?logo=twitter&style=for-the-badge" alt="eshrak_g46198" /></a> </p>
