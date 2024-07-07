@@ -30,7 +30,7 @@
 
 - 🐍 I’m currently learning ****Python****
 
-- 💻 Know about my experiences [Problem solving with C,C++](Problem solving with C,C++)
+- 💻 Know about my experiences **Problem solving with C,C++**
 
 - 🌊 Fun fact ****I think I am Deep water fish****
 
