@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/eshrak_g46198" target="blank"><img src="https://img.shields.io/twitter/follow/eshrak_g46198?logo=twitter&style=for-the-badge" alt="eshrak_g46198" /></a> </p>
 
-- 📚 I’m currently Studing on [Daffodil Polytechnic Institute](https://dpi.ac/)
+- 📚 I’m currently Studing on **Daffodil Polytechnic Institute**(https://dpi.ac/)
 
-- 📘 I was a student of Phitron [Phitron](https://phitron.io/)
+- 📘 I was a student of **Phitron** [Phitron](https://phitron.io/)
 
 - 📕 I was a student of **Firoza Bashar Ideal Institute (FBIC)** https://fbic.edu.bd/
 
-- 📙 I was a student of BMARPC [Birshreshtha Munshi Abdur Rouf Public College](https://www.abdurroufcollege.ac.bd/)
+- 📙 I was a student of **BMARPC** [Birshreshtha Munshi Abdur Rouf Public College](https://www.abdurroufcollege.ac.bd/)
 
 - 📩 How to reach me [eshrakg62@gmail.com](eshrakg62@gmail.com)
 
@@ -24,7 +24,7 @@
 
 - 🐍 I’m currently learning **Python**
 
-- 💻 Know about my experiences [Problem solving with C,C++](Problem solving with C,C++)
+- 💻 Know about my experiences Problem solving with C,C++
 
 - 🌊 Fun fact **I think I am Deep water fish**
 
