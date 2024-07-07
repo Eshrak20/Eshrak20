@@ -11,15 +11,20 @@
 
 - 📚 I’m currently Studing on [**Daffodil Polytechnic Institute**](https://dpi.ac/)
 
-- 📕 I was a student of **FBII** **Firoza Bashar Ideal Institute (FBIC)**
+- 📕 I was a student of **Firoza Bashar Ideal Institute (FBIC)**
 
 - 📘 I was a student of **Phitron** [**Phitron**](https://phitron.io/)
 
-- 📙 I was a student of **BMARPC** [**Birshreshtha Munshi Abdur Rouf Public College**](https://www.abdurroufcollege.ac.bd/)
+- 📙 I was a student of [**Birshreshtha Munshi Abdur Rouf Public College**](https://www.abdurroufcollege.ac.bd/)
 
 - 📩 How to reach me [eshrakg62@gmail.com](eshrakg62@gmail.com)
 
-- 🎥 I regularly make videos on [https://www.youtube.com/@EshrakG-xy](https://www.youtube.com/@EshrakG-xy)
+- 🎥 I regularly make videos on <div style="display: flex; align-items: flex-end; height: 100px;">
+  <a href="https://www.youtube.com/@EshrakG-xy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20" height="20">
+  </a>
+</div>
+
 
 - 🔴 I’m currently learning ****Laravel****
 
