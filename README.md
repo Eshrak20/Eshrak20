@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="1160"  height="480" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="center" alt="Coding" width="100%" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp?cid=790b76118xetoo06u5dn6vah9l1v92bivebcruorpy75d1jx&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <h1 align="center">Hi 👋, I'm Eshrak</h1>
 <h3 align="center">I'm enthusiast of computer science and engineering</h3>
