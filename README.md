@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp?cid=790b76118xetoo06u5dn6vah9l1v92bivebcruorpy75d1jx&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="center" alt="Coding" width="100%" height="200" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp?cid=790b76118xetoo06u5dn6vah9l1v92bivebcruorpy75d1jx&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <h1 align="center">Hi 👋, I'm Eshrak</h1>
 <h3 align="center">I'm enthusiast of computer science and engineering</h3>
