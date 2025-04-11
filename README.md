@@ -28,11 +28,11 @@
 
 - 🔴 I’m currently learning ****Laravel****
 
-- 🐍 I’m currently learning ****Python****
+- 🐍 I’m currently learning ****React JS****
 
 - 💻 Know about my experiences **Problem solving with C,C++**
 
-- 🌊 Fun fact ****I think I am Deep water fish****
+- 🌊 Fun fact ****I think I am Quick Learner and Great Listener****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
