@@ -20,7 +20,7 @@
 - 📩 How to reach me [**eshrakg62@gmail.com**](eshrakg62@gmail.com)
 
 - 🎥 I regularly make videos on <div style="display: flex; align-items: flex-end; height: 100px;">
-  <a href="https://www.youtube.com/@EshrakG-xy" target="_blank">
+  <a href="https://www.youtube.com/@TechWorkshop-l2n/videos" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="33" height="20">
   </a>
 </div>
