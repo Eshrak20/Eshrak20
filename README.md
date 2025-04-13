@@ -26,9 +26,9 @@
 </div>
 
 
-- <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="20"/> I’m currently learning **Laravel**
+- <img style="margin-top:5px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="20"/> I’m currently learning **Laravel**
 
-- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="20"/> I’m currently learning **React JS**
+- <img style="margin-top:5px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="20"/> I’m currently learning **React JS**
 
 
 
