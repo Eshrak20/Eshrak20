@@ -22,7 +22,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhldG9vMDZ1NWRuNnZhaDlsMXY5MmJpdmViY3J1b3JweTc1ZDFqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" /> </p>
+<p align="left"> <img style="pointer-events: none;" src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" /> </p>
 
 ### 🎓 Educational Background  
 - 📚 Currently studying at **[Daffodil Polytechnic Institute](https://dpi.ac/)**  
