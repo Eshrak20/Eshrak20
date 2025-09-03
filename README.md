@@ -88,7 +88,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX07-KmUNvMnp10yRr1ZcRyvAQyNUuu6yVJuf1D1E1XYpp8mvhMgtiQ02Wh2VB1nB0sc&usqp=CAU" alt="express" width="50" height="50"/>
   </a>
   <a >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQktag_VC1qrgSuv5rIvlFppvF52HaufgLefw&s" alt="nodejs" width="50" height="50"/>
   </a>
   <a >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Iny1sVBahJDznu1vBy-sdwAPGB7wYudsfiysMa9qkdvtrxCETCzSAKZ45NqYmgGjyp4&usqp=CAU" alt="mongodb" width="50" height="50"/>
