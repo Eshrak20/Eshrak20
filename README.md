@@ -85,7 +85,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 
 <!-- Backend -->
   <a >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX07-KmUNvMnp10yRr1ZcRyvAQyNUuu6yVJuf1D1E1XYpp8mvhMgtiQ02Wh2VB1nB0sc&usqp=CAU" alt="express" width="50" height="50"/>
   </a>
   <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
