@@ -88,13 +88,13 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX07-KmUNvMnp10yRr1ZcRyvAQyNUuu6yVJuf1D1E1XYpp8mvhMgtiQ02Wh2VB1nB0sc&usqp=CAU" alt="express" width="50" height="50"/>
   </a>
   <a >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoU1JFH9GXH0aLUeC1Rh1RKuTg0uEHUVAWIXmVZnAZ9B6zku6k_aEhhxB-wOksYtvKXAw&usqp=CAU" alt="nodejs" width="50" height="50"/>
   </a>
   <a >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Iny1sVBahJDznu1vBy-sdwAPGB7wYudsfiysMa9qkdvtrxCETCzSAKZ45NqYmgGjyp4&usqp=CAU" alt="mongodb" width="50" height="50"/>
   </a>
   <a >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+    <img src="https://img.icons8.com/m_sharp/512/FFFFFF/mysql-logo.png" alt="mysql" width="50" height="50"/>
   </a>
   <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
