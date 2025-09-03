@@ -1,11 +1,10 @@
 <img align="center" alt="Coding" width="100%" height="400" src="https://i.ibb.co.com/j2bR9xC/Eshrak-G.gif">
 
-<h1 align="center">Hi 👋, I'm Eshrak</h1>
-<h3 align="center">🚀 A Computer Science Enthusiast from Bangladesh</h3>
----
+<h1 align="center">Hi 👋, I'm Eshrak G</h1>
+<h3 align="center">A Computer Science Enthusiast from Bangladesh</h3>
 
 ### 👨‍🎓 Overview 
-Hi, I’m **Eshrak** — a Full-Stack JavaScript Developer specializing in the **MERN stack**.  
+A Full-Stack JavaScript Developer specializing in the **MERN stack**.  
 I build scalable web applications with **Express.js, PostgreSQL, Mongodb**, and create responsive UIs using **React, Redux, and Tailwind CSS**.  
 
 Currently, I’m exploring **Next.js, Prisma, GraphQL, and Devops ** to level up my development skills. Passionate about turning ideas into **production-ready projects** with strong backend foundations and smooth user experiences.  
@@ -27,8 +26,6 @@ Currently, I’m exploring **Next.js, Prisma, GraphQL, and Devops ** to level up
 
 - 📩 **Reach me at:** [eshrakg62@gmail.com](mailto:eshrakg62@gmail.com)  
 - 🎥 **YouTube:** [EshrakG-xy](https://www.youtube.com/@EshrakG-xy)  
-- 🌱 **Currently exploring:** PostgreSQL & Laravel Filament  
-- 💻 **Experienced in:** Problem Solving with C, C++  
 
 ---
 
@@ -48,7 +45,7 @@ Currently, I’m exploring **Next.js, Prisma, GraphQL, and Devops ** to level up
 
 ---
 
-<h3 align="left">🚀 Languages & Tools:</h3>
+<h3 align="left">📌 Languages & Tools:</h3>
 <p align="left">
   <!-- Backend -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -97,50 +94,47 @@ Currently, I’m exploring **Next.js, Prisma, GraphQL, and Devops ** to level up
 </p>
 
 
+---
+
+
+
+<h3 align="left">📌 Career Snapshot:</h3>
 - ⚡ **Weaknesses:** Stick too much with JavaScript, no industry job yet, sometimes add extra features beyond requirements, improving time management.  
 
-- 🌊 **Strength:** Quick learner, adapt easily between backend & frontend, user-focused problem solver.  
+- ✅ **Strength:** Quick learner, adapt easily between backend & frontend, user-focused problem solver.  
 
-- ❌ **Biggest Mistake:** Focused only on frontend early, switched tech stacks too often, later shifted strongly to backend.  
+- ✅ **Biggest Mistake:** Focused only on frontend early, switched tech stacks too often, later shifted strongly to backend.  
 
-- 💼 **Why Hire Me:** Practical skills in backend & frontend, fast learner, disciplined, good team player with Git & Postman experience.  
+- ✅ **Why Hire Me:** Practical skills in backend & frontend, fast learner, disciplined, good team player with Git & Postman experience.  
 
-- 🌟 **Unique Skill:** Can build full-stack apps end-to-end, write clean code with README, deliver fast, Linux user, use AI effectively.  
+- ✅ **Unique Skill:** Can build full-stack apps end-to-end, write clean code with README, deliver fast, Linux user, use AI effectively.  
 
-- 🚀 **Excited About:** Scalable apps, SaaS platforms, cloud deployments, PostgreSQL, and backend-heavy projects.  
+- ✅ **Excited About:** Scalable apps, SaaS platforms, cloud deployments, PostgreSQL, and backend-heavy projects.  
 
-- 🛠️ **Challenging Project:** Built a digital wallet with React, Redux, Express, MongoDB, solved CORS, HTTPS, and business logic issues.  
+- ✅ **Challenging Project:** Built a digital wallet with React, Redux, Express, MongoDB, solved CORS, HTTPS, and business logic issues.  
 
-- 🐞 **Debugging:** Use console logs, breakpoints, Postman, browser dev tools, AI, Stack Overflow, and isolate problems step by step.  
+- ✅ **Debugging:** Use console logs, breakpoints, Postman, browser dev tools, AI, Stack Overflow, and isolate problems step by step.  
 
-- 🔒 **Security:** Validate inputs, hash passwords, JWT auth, role-based access, prevent injections, encrypt sensitive data.  
+- ✅ **Security:** Validate inputs, hash passwords, JWT auth, role-based access, prevent injections, encrypt sensitive data.  
 
-- 🎯 **Future Goal:** In 2–5 years, become a skilled backend developer or team lead, with a long-term goal of starting an IT firm.  
+- ✅ **Future Goal:** In 2–5 years, become a skilled backend developer or team lead, with a long-term goal of starting an IT firm.  
 
-- 🧩 **Problem Solving:** First use AI, then docs & forums, test small cases, and ask peers/mentors if needed.  
+- ✅ **Problem Solving:** First use AI, then docs & forums, test small cases, and ask peers/mentors if needed.  
 
-- 🔥 **Motivation:** Seeing my code work in real use and helping clients keeps me motivated long-term.  
-
----
-
-
-
-
-
-
-
-
-
-
+- ✅ **Motivation:** Seeing my code work in real use and helping clients keeps me motivated long-term.  
 
 ---
 
-### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshrak20&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/></p>  
+<!-- 📌
+### 📊  -->
+<h3 align="left">📌 GitHub Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshrak20&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshrak20&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/></p>  
+
+
 
 
 ---
 
-<h3 align="center"> 🤙🏽 WhatsApp: 01309176398</h3>
+<h3 align="center"> 🤙🏽 WhatsApp: 01829076247</h3>
