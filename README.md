@@ -4,11 +4,11 @@
 <h3 align="center">🚀 A Computer Science Enthusiast from Bangladesh</h3>
 ---
 
-### 👨‍💻 About Me  
+### 👨‍🎓 Overview 
 Hi, I’m **Eshrak** — a Full-Stack JavaScript Developer specializing in the **MERN stack**.  
-I build scalable web applications with **Node.js, Express, PostgreSQL**, and create responsive UIs using **React, Redux, and Tailwind CSS**.  
+I build scalable web applications with **Express.js, PostgreSQL, Mongodb**, and create responsive UIs using **React, Redux, and Tailwind CSS**.  
 
-Currently, I’m exploring **TypeScript, Prisma, GraphQL, and Next.js** to level up my development skills. Passionate about turning ideas into **production-ready projects** with strong backend foundations and smooth user experiences.  
+Currently, I’m exploring **Next.js, Prisma, GraphQL, and Devops ** to level up my development skills. Passionate about turning ideas into **production-ready projects** with strong backend foundations and smooth user experiences.  
 
 
 
@@ -18,19 +18,21 @@ Currently, I’m exploring **TypeScript, Prisma, GraphQL, and Next.js** to level
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" /> </p>
 
 ---
-
-### 👨‍🎓 About Me  
+### 🎓 Educational Background  
 - 📚 Currently studying at **[Daffodil Polytechnic Institute](https://dpi.ac/)**  
-- 📕 Former student at **[Firoza Bashar Ideal Institute (FBIC)](https://fbic.edu.bd/)**  
+- 📗 Running courses at  **[Programming Hero Level 2](https://web.programming-hero.com/home/level2)**  
 - 📘 Completed courses at **[Phitron](https://phitron.io/)**  
 - 📙 Alumni of **[Birshreshtha Munshi Abdur Rouf Public College](https://www.abdurroufcollege.ac.bd/)**  
-- 📩 Reach me at **[eshrakg62@gmail.com](mailto:eshrakg62@gmail.com)**  
-- 🎥 Regularly upload on [**YouTube**](https://www.youtube.com/@TechWorkshop-l2n/videos)  
-- 🌱 Currently learning **Postgresql** & **Next JS**  
-- 💻 Experienced in **Problem Solving with C, C++**  
-- 🌊 Fun fact: *I’m a quick learner and a great listener*  
+- 📕 Former student at **[Firoza Bashar Ideal Institute (FBIC)](https://fbic.edu.bd/)**  
+
+- 📩 **Reach me at:** [eshrakg62@gmail.com](mailto:eshrakg62@gmail.com)  
+- 🎥 **YouTube:** [EshrakG-xy](https://www.youtube.com/@EshrakG-xy)  
+- 🌱 **Currently exploring:** PostgreSQL & Laravel Filament  
+- 💻 **Experienced in:** Problem Solving with C, C++  
 
 ---
+
+
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -94,6 +96,43 @@ Currently, I’m exploring **TypeScript, Prisma, GraphQL, and Next.js** to level
   </a>
 </p>
 
+
+- ⚡ **Weaknesses:** Stick too much with JavaScript, no industry job yet, sometimes add extra features beyond requirements, improving time management.  
+
+- 🌊 **Strength:** Quick learner, adapt easily between backend & frontend, user-focused problem solver.  
+
+- ❌ **Biggest Mistake:** Focused only on frontend early, switched tech stacks too often, later shifted strongly to backend.  
+
+- 💼 **Why Hire Me:** Practical skills in backend & frontend, fast learner, disciplined, good team player with Git & Postman experience.  
+
+- 🌟 **Unique Skill:** Can build full-stack apps end-to-end, write clean code with README, deliver fast, Linux user, use AI effectively.  
+
+- 🚀 **Excited About:** Scalable apps, SaaS platforms, cloud deployments, PostgreSQL, and backend-heavy projects.  
+
+- 🛠️ **Challenging Project:** Built a digital wallet with React, Redux, Express, MongoDB, solved CORS, HTTPS, and business logic issues.  
+
+- 🐞 **Debugging:** Use console logs, breakpoints, Postman, browser dev tools, AI, Stack Overflow, and isolate problems step by step.  
+
+- 🔒 **Security:** Validate inputs, hash passwords, JWT auth, role-based access, prevent injections, encrypt sensitive data.  
+
+- 🎯 **Future Goal:** In 2–5 years, become a skilled backend developer or team lead, with a long-term goal of starting an IT firm.  
+
+- 🧩 **Problem Solving:** First use AI, then docs & forums, test small cases, and ask peers/mentors if needed.  
+
+- 🔥 **Motivation:** Seeing my code work in real use and helping clients keeps me motivated long-term.  
+
+---
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 📊 GitHub Stats  
@@ -104,4 +143,4 @@ Currently, I’m exploring **TypeScript, Prisma, GraphQL, and Next.js** to level
 
 ---
 
-<h3 align="center">📱 WhatsApp: 01309176398</h3>
+<h3 align="center"> 🤙🏽 WhatsApp: 01309176398</h3>
