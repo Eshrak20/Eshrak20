@@ -1,5 +1,5 @@
 <a href="https://eshrakg.netlify.app/">
-    <img align="center" alt="Coding" width="100%" height="400" src="https://i.ibb.co.com/wZ1PPJJN/Eshrak-G-1.gif">
+    <img align="center" alt="Coding" width="100%" height="400" src="https://i.ibb.co.com/YFPBmKLD/Eshrak-G-2.gif">
 </a>
 
 
