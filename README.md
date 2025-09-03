@@ -91,10 +91,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshrak20&show_icons=true&locale=en" alt="GitHub Stats"/></p>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshrak20&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
-
 
 ---
 
