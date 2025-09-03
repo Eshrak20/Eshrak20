@@ -91,7 +91,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshrak20&show_icons=true&locale=en" alt="GitHub Stats"/></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshrak20&" alt="GitHub Streak"/></p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshrak20&theme=dark&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
