@@ -25,7 +25,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 </a>
 
 
-### 🎓 Educational Background  
+<!-- ### 🎓 Educational Background   -->
 - 📚 Currently studying at **[Daffodil Polytechnic Institute](https://dpi.ac/)**  
 - 📗 Former student at **[Firoza Bashar Ideal Institute (FBIC)](https://fbic.edu.bd/)** 
 - 📕 Running courses at  **[Programming Hero Level 2](https://web.programming-hero.com/home/level2)**
