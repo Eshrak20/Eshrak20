@@ -83,6 +83,9 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshrak20&theme=dark" alt="GitHub Streak"/> 
+</p>
 
 ---
 
