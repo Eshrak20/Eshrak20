@@ -54,48 +54,47 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 <h3 align="left">📌 Languages & Tools:</h3>
 <p align="left">
   <!-- Backend -->
-> <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
   </a>
->
- <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   </a>
   
   <!-- Frontend -->
-> <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
 
   <!-- Tools -->
-  <a>
+  <a >
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
-  <a>
+  <a >
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
 </p>
@@ -106,7 +105,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 
 
 <h3 align="left">📌 Career Snapshot:</h3>
-- ⚡ **Weaknesses:** Stick too much with JavaScript, no industry job yet, sometimes add extra features beyond requirements, improving time management.  
+
 
 - 🌊 **Strength:** Quick learner, adapt easily between backend & frontend, user-focused problem solver.  
 
