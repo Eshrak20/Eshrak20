@@ -2,6 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Eshrak</h1>
 <h3 align="center">🚀 A Computer Science Enthusiast from Bangladesh</h3>
+---
+
+### 👨‍💻 About Me  
+Hi, I’m **Eshrak** — a Full-Stack JavaScript Developer specializing in the **MERN stack**.  
+I build scalable web applications with **Node.js, Express, PostgreSQL**, and create responsive UIs using **React, Redux, and Tailwind CSS**.  
+
+Currently, I’m exploring **TypeScript, Prisma, GraphQL, and Next.js** to level up my development skills. Passionate about turning ideas into **production-ready projects** with strong backend foundations and smooth user experiences.  
+
+
+
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhldG9vMDZ1NWRuNnZhaDlsMXY5MmJpdmViY3J1b3JweTc1ZDFqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
@@ -82,9 +92,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshrak20&theme=dark" alt="GitHub Streak"/> 
 </p>
 
 ---
