@@ -11,25 +11,26 @@ I’m a Full-Stack JavaScript Developer specializing in the **MERN stack**, buil
 
 Beyond software, I’m deeply fascinated by **how computers work at a low level**. I explore **hardware architecture, embedded systems, and robotics**, working with **motion sensors, light/fire/water sensors, obstacle detection, and microcontrollers**. I also have hands-on knowledge of **Linux internals, kernel concepts, memory management (RAM/ROM, buffers), CPU cores and threads, I/O operations, and peripheral communication**.  
 
-On the networking side, I understand **IP addressing, MAC addresses, routing, server configuration, and basic network protocols**, giving me a holistic view of how software, hardware, and networks interact to create robust systems.
+<!-- On the networking side, I understand **IP addressing, MAC addresses, routing, server configuration, and basic network protocols**, giving me a holistic view of how software, hardware, and networks interact to create robust systems.
  
 
-Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps**, merging my love for backend systems with practical applications, while continuously exploring the intersection of **software and computer hardware**.  
+Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps**, merging my love for backend systems with practical applications, while continuously exploring the intersection of **software and computer hardware**.   -->
  
-
-
 
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhldG9vMDZ1NWRuNnZhaDlsMXY5MmJpdmViY3J1b3JweTc1ZDFqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" /> </p>
+<a href="https://www.linkedin.com/in/eshrakg/">
+    <img align="left" src="https://komarev.com/ghpvc/?username=eshrak20&label=Profile%20views&color=0e75b6&style=flat" alt="eshrak20" />
+</a>
+
 
 ### 🎓 Educational Background  
 - 📚 Currently studying at **[Daffodil Polytechnic Institute](https://dpi.ac/)**  
-- 📗 Running courses at  **[Programming Hero Level 2](https://web.programming-hero.com/home/level2)**  
+- 📗 Former student at **[Firoza Bashar Ideal Institute (FBIC)](https://fbic.edu.bd/)** 
+- 📕 Running courses at  **[Programming Hero Level 2](https://web.programming-hero.com/home/level2)**
 - 📘 Completed courses at **[Phitron](https://phitron.io/)**  
 - 📙 Alumni of **[Birshreshtha Munshi Abdur Rouf Public College](https://www.abdurroufcollege.ac.bd/)**  
-- 📕 Former student at **[Firoza Bashar Ideal Institute (FBIC)](https://fbic.edu.bd/)**  
 
 - 📩 **Reach me at:** [eshrakg62@gmail.com](mailto:eshrakg62@gmail.com)  
 - 🎥 **YouTube:** [EshrakG-xy](https://www.youtube.com/@EshrakG-xy)  
@@ -51,8 +52,8 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 
 ---
 
-<h3 align="left">📌 Languages & Tools:</h3>
-<p align="left">
+<h3 align="left">📌 Languages & Tools</h3>
+<p style="background-color: aliceblue;" align="left" >
   <!-- Backend -->
   <a >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
@@ -104,7 +105,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
 
 
 
-<h3 align="left">📌 Career Snapshot:</h3>
+<h3 align="left">📌 Career Snapshot</h3>
 
 
 - 🌊 **Strength:** Quick learner, adapt easily between backend & frontend, user-focused problem solver.  
