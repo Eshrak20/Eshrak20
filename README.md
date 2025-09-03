@@ -83,7 +83,7 @@ Currently, I’m enhancing my skills with **Next.js, Prisma, GraphQL, and DevOps
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
   </a>
 
-    <!-- Backend -->
+<!-- Backend -->
   <a >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX07-KmUNvMnp10yRr1ZcRyvAQyNUuu6yVJuf1D1E1XYpp8mvhMgtiQ02Wh2VB1nB0sc&usqp=CAU" alt="express" width="50" height="50"/>
   </a>
